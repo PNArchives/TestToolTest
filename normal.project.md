@@ -1,5 +1,5 @@
 ### Test Project Name
-Test Tool Test
+TTT
 
 ### Test Project Description
-Test Tool Test Description
+TTT Description

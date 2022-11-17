@@ -1,8 +1,8 @@
 ### Test Suite Name
-Suite A
+Suite A modidied
 
 ### Test Suite Description
-Suite A Description
+Suite A Description modidied
 
 ### Test Case Order
 1. A01.spec.md
